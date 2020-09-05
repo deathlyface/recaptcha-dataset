@@ -67,7 +67,7 @@ recaptcha-dataset
 ```
 
 ## Status
-Images: 11.774 (Not 11.775)
+Images: 11.774
 
 Last Updated: 07 June 2020
 
@@ -75,7 +75,5 @@ Last Updated: 07 June 2020
 
 [Reddit](https://www.reddit.com/r/datasets/comments/gxlvxd/recaptcha_dataset/)
 
-[Blog Post](https://deathlyf.com/2020/06/06/recaptcha-dataset/)
-
 ## Info
-Feel free to use this dataset for anything you want.
+Using copyrighted materials without permission from the owner (Google) is illegal. However, you can use it for educational purposes ([Fair Use](https://support.google.com/legal/answer/4558992?hl=en)) 
