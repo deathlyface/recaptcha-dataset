@@ -4,7 +4,7 @@ Dataset of thousands of reCAPTCHA images.
 
   
 
-![Sample Images](https://deathlyf.com/wp-content/uploads/2020/05/captcha-row.png)
+![Sample Images](https://raw.githubusercontent.com/deathlyface/recaptcha-dataset/main/captcha-row.webp)
 
 ## Structure
 ```
